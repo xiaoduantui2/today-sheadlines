@@ -1,7 +1,7 @@
 <template>
   <div>
     <van-cell-group>
-      1
+      
       <van-field
         v-model="moddie"
         left-icon="smile-o"
